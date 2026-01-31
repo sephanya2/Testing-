@@ -1,0 +1,1 @@
+Code review & teamwork - Before changes go live, team reviews code and provide Comments on improvements, Fixes bugs early
